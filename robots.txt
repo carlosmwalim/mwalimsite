@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carlosmwalim.github.io/mwalimsite/sitemap.xml
